@@ -1,0 +1,7 @@
+- [x] sort clothes
+- [ ] swipe the floor
+- [ ] mop the floor
+- [x] popraty clothes and postil
+- [ ] clean the toilet
+- [x] wash the dishes
+- [x] clean the pipes

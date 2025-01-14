@@ -1,84 +1,97 @@
 {
   "main": {
-    "id": "d4549c1d29ce44ac",
+    "id": "3334058b7e8eb18e",
     "type": "split",
     "children": [
       {
-        "id": "948b0132e3a6fc1a",
+        "id": "b00b210aafeafd51",
         "type": "tabs",
         "children": [
           {
-            "id": "e3fbd7069429fc7e",
+            "id": "02e5114dd222c385",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "План на 29.08.md",
+                "file": "linux todo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "План на 29.08"
+              "title": "linux todo"
             }
           },
           {
-            "id": "db2390d3e31cdc44",
+            "id": "bfe6468aaaafd693",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Що робити з лінуксом.md",
+                "file": "comments.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Що робити з лінуксом"
+              "title": "comments"
             }
           },
           {
-            "id": "ead8879f716d5699",
+            "id": "3cc3e8a4a74e7aac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mtab.md",
+                "file": "Cleaning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mtab"
+              "title": "Cleaning"
             }
           },
           {
-            "id": "5745a78d7391709b",
+            "id": "5b555547336028ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Master presentation.md",
+                "file": "Групка.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Master presentation"
+              "title": "Групка"
+            }
+          },
+          {
+            "id": "a98ef6630f40a95e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ісаї.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ісаї"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "3da9d1717da4bb32",
+    "id": "f3a74ce20eda5f2a",
     "type": "split",
     "children": [
       {
-        "id": "db8646091c547e97",
+        "id": "8265b5eb07c3c4ec",
         "type": "tabs",
         "children": [
           {
-            "id": "8daa4dc6ad074976",
+            "id": "9eba6e0cd117c481",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -90,7 +103,7 @@
             }
           },
           {
-            "id": "1a7f323341c2f23c",
+            "id": "f81601049938a318",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -107,7 +120,7 @@
             }
           },
           {
-            "id": "2deb58d80d4e2399",
+            "id": "04cef04871393420",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -120,23 +133,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 265.5,
     "collapsed": true
   },
   "right": {
-    "id": "2d42f6ea2a16da44",
+    "id": "ffe4f6b0fa43fe41",
     "type": "split",
     "children": [
       {
-        "id": "01e80f8d2c65c996",
+        "id": "9c4e0f65a7ad8e44",
         "type": "tabs",
         "children": [
           {
-            "id": "564901c61a3c664d",
+            "id": "e4b11098d611a7a2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "linux todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,24 +160,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for linux todo"
             }
           },
           {
-            "id": "65560d2f003092c8",
+            "id": "60aae614d1a9e02b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "linux todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from linux todo"
             }
           },
           {
-            "id": "ffd52dcf5ca632d2",
+            "id": "b1a331216b10420d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -176,20 +191,32 @@
             }
           },
           {
-            "id": "f2acd683149b4e78",
+            "id": "79e2a14034554aff",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "linux todo.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of linux todo"
+            }
+          },
+          {
+            "id": "f86b5844564b0dbf",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 574.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -199,37 +226,39 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "translate:Open translation view": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ead8879f716d5699",
+  "active": "02e5114dd222c385",
   "lastOpenFiles": [
-    "Що робити з лінуксом.md",
-    "mtab.md",
-    "Підготовки до зустрічей.md",
-    "Master presentation.md",
-    "Кідс клаб.md",
-    "План на 29.08.md",
-    "02.09.2024.md",
-    "Молитовні сніданки.md",
-    "Зустрічі з Сашком.md",
-    "Plans for december.md",
-    "Спіч на сплав.md",
-    "Список.md",
-    "Подія пацанів 19.09.md",
-    "План на тиждень 26 -31 серпня.md",
-    "План на тиждень 19-26 серпня.md",
-    "План на неділю 25 серпня.md",
-    "План на неділю 18 серпня.md",
-    "Нотатки з Біблії.md",
-    "ДОК.md",
-    "Words.md",
-    "Welcome.md",
+    "Ісаї.md",
+    "linux todo.md",
+    "comments.md",
+    "Cleaning.md",
+    "Pasted image 20250108223205.png",
+    "Pasted image 20250108223205 1.png",
+    "Групка.md",
+    "Спіч про новий рік.md",
     "Clean code.md",
-    "obsidian/Що робити з лінуксом.md",
-    "obsidian/Спіч на сплав.md",
-    "obsidian/Список.md",
-    "obsidian/Подія пацанів 19.09.md",
-    "obsidian"
+    "Words.md",
+    "02.09.2024.md",
+    "Подія пацанів 19.09.md",
+    "Зустрічі з Сашком.md",
+    "Молитовні сніданки.md",
+    "ДОК.md",
+    "Нотатки з Біблії.md",
+    "План на 29.08.md",
+    "Список.md",
+    "План на неділю 18 серпня.md",
+    "План на неділю 25 серпня.md",
+    "План на тиждень 19-26 серпня.md",
+    "План на тиждень 26 -31 серпня.md",
+    "Що робити з лінуксом.md",
+    "Спіч на сплав.md",
+    "Welcome.md",
+    "Untitled 1",
+    "Untitled"
   ]
 }
