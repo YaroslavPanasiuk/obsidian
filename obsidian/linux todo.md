@@ -14,7 +14,7 @@
 - [x] hypridle
 - [x] samba
 - [x] move virt-manager, wal, dock config to nixos
-- [ ] update install script
+- [x] update install script
 - [ ] add udev rule
 
 - vs code
