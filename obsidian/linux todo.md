@@ -16,6 +16,9 @@
 - [x] move virt-manager, wal, dock config to nixos
 - [x] update install script
 - [ ] add udev rule
+- [x] boot loader
+- [ ] seelen ui
+- [ ] windows shell
 
 - vs code
 - thunar
