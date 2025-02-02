@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "mtab"
             }
+          },
+          {
+            "id": "18dbfa81ffb85750",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.3"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +53,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -158,7 +172,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ead8879f716d5699",
+  "active": "18dbfa81ffb85750",
   "lastOpenFiles": [
     "obsidian/Ісаї.md",
     "obsidian/linux todo.md",
