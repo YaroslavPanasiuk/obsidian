@@ -19,6 +19,12 @@
 - [x] boot loader
 - [ ] seelen ui
 - [ ] windows shell
+- [ ] custom power profile module
+- [ ] custom battery module
+- [ ] custom keyboard module
+- [ ] structure scripts
+- [ ] OSD
+- [ ] style whole bar
 
 - vs code
 - thunar

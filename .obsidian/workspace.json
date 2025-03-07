@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/Ісаї.md",
+                "file": "Абетка християнина.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ісаї"
+              "title": "Абетка християнина"
+            }
+          },
+          {
+            "id": "2b607c029e5e1bc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian/linux todo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "linux todo"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2d42f6ea2a16da44",
@@ -160,15 +174,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ead8879f716d5699",
+  "active": "2b607c029e5e1bc3",
   "lastOpenFiles": [
-    "Untitled.md",
+    "obsidian/Групка.md",
+    "Untitled 1.md",
+    "Абетка християнина.md",
     "obsidian/Ісаї.md",
+    "Untitled.md",
     "Ісая.md",
     "22.02.md",
     "02.09.2024.md",
-    "Абетка християнина.md",
-    "obsidian/Групка.md",
     "Що робити з лінуксом.md",
     "obsidian/linux todo.md",
     "obsidian/Pasted image 20250108223205.png",
@@ -188,7 +203,6 @@
     "План на тиждень 26 -31 серпня.md",
     "План на тиждень 19-26 серпня.md",
     "План на неділю 25 серпня.md",
-    "План на неділю 18 серпня.md",
     "obsidian"
   ]
 }

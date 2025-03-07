@@ -1,0 +1,2 @@
+
+`ffmpeg -i "/home/yarko/Videos/kden/valentine/пісня-00.00.00.000-00.00.06.384.mp4" -filter_complex "[0:v]scale=1920:1080, gblur=sigma=20[bg]; [0:v]scale=1280:720[fg]; [bg][fg]overlay=(W-w)/2:(H-h)/2" output.mp4`
