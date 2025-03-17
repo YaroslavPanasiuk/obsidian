@@ -25,6 +25,7 @@
 - [ ] structure scripts
 - [ ] OSD
 - [ ] style whole bar
+- [ ] 
 
 - vs code
 - thunar
