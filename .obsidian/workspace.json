@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/Групка.md",
+                "file": "temp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Групка"
+              "title": "temp"
             }
           },
           {
@@ -49,7 +49,8 @@
               "title": "Абетка християнина"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2d42f6ea2a16da44",
@@ -187,35 +189,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ead8879f716d5699",
+  "active": "0853a3921375448a",
   "lastOpenFiles": [
-    "TODO.md",
-    "Абетка християнина.md",
-    "obsidian/Групка.md",
     "temp.md",
-    "obsidian/linux todo.md",
-    "Untitled 1.md",
-    "Untitled 2.md",
-    "obsidian/Cleaning.md",
-    "Plans for december.md",
-    "obsidian/Ісаї.md",
-    "Ісая.md",
     "22.02.md",
     "02.09.2024.md",
-    "Що робити з лінуксом.md",
+    "obsidian/Cleaning.md",
+    "obsidian/comments.md",
+    "obsidian/linux todo.md",
     "obsidian/Pasted image 20250108223205.png",
+    "obsidian/Групка.md",
+    "obsidian/Ісаї.md",
+    "obsidian/Спіч про новий рік.md",
+    "Welcome.md",
+    "Words.md",
+    "TODO.md",
+    "Абетка християнина.md",
+    "Untitled 1.md",
+    "Untitled 2.md",
+    "Plans for december.md",
+    "Ісая.md",
+    "Що робити з лінуксом.md",
     "mtab.md",
     "План на 29.08.md",
-    "obsidian/Спіч про новий рік.md",
     "groceries.md",
     "Підготовки до зустрічей.md",
     "Master presentation.md",
     "Кідс клаб.md",
     "Молитовні сніданки.md",
     "Зустрічі з Сашком.md",
-    "Спіч на сплав.md",
-    "Список.md",
-    "Подія пацанів 19.09.md",
     "obsidian"
   ]
 }

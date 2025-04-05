@@ -16,10 +16,17 @@ Also you might have heard that Trump and USA are working towards establishing a 
 
 You can pray for Ihor and his spiritual and physical well-being, also for our army to stand strong when we do not have technological advantage anymore
 
-Добрий вечір, нагадую що в цю неділю служать:
 
-1 Зміна:
-@edison_gpt і @nicepashtet 
 
-2 Зміна:
-@shalopay1113
+Hello, happy to see yall here today. Thank you for your time. I dont have much to update actually. Ihor is alive and healthy as far as I know. I havent spoken to him for a while so I don't know the most recent updates on his condition.
+
+I don't know if I told you already, but Ihor is not only responsible for media and crowdfunding, but he is also a communicator between military headquarters and the soldiers, so he guides the soldiers with updates in tactics and also he communicates with wounded soldiers and helps them get to the medical crew. I know that on of these wounded soldiers died during such call with Ihor around a week ago. I do not know his name and the circumstances but I think this could be tough emotionally for Ihor.
+So we can pray for Ihor to stay strong and also for his safety and safety of his fellow soldiers
+
+Last time I shared that Ihor and his squad are gathering money for developing the production of land and air drones. Their goal is to gather 70 000 usd till the end of April. I don't know how close they are to reaching this goal (I believe they gathered around half of what they need), but we can also pray that God would bless Ihor's squad financially so they would satisfy their most critical needs
+
+Also,  I want to share about a guy from my church. His name is Rostyslav, but we can call him Ros. He decided to join the army and now ha awaits to being summoned. He is married but doesn't have children. In a week or two he will be summoned and then he will do the basic training for a month and after that he will start working as a military. I don' know his role yet but he will probably work as drone operator. So we can pray for him and his wife today as well
+
+Also, this Sunday in our church we will be approving 3 new pastors for a limited period so you can pray for this whole process and for God's wisdom four our church members to make right decision and for the three men that are going to take a new role
+
+so, to summarize, pray for Ihor and his strength, safety and emotional well-being, for Ros and his wife who are awaiting the summoning, and for the process of approving new pastors
