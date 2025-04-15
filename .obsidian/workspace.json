@@ -11,14 +11,12 @@
             "id": "7cbd29ccaa301530",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "TODO.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2025-04-07 14.06.17.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "TODO"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-04-07 14.06.17.excalidraw"
             }
           },
           {
@@ -48,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2d42f6ea2a16da44",
@@ -187,11 +186,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b0e4d3a400494fef",
+  "active": "a0d93753d219690c",
   "lastOpenFiles": [
-    "TODO.md",
-    "Єремії.md",
     "Excalidraw/Drawing 2025-04-07 14.06.17.excalidraw.md",
+    "Єремії.md",
+    "TODO.md",
     "Excalidraw/Drawing 2025-04-06 15.34.51.excalidraw.md",
     "obsidian/Групка.md",
     "obsidian/Ісаї.md",
