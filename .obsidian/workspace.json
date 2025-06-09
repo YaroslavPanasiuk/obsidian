@@ -34,6 +34,20 @@
             }
           },
           {
+            "id": "e39f0de0b0120332",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Сесія 4 - Зібрання.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Сесія 4 - Зібрання"
+            }
+          },
+          {
             "id": "b3215e95a7938982",
             "type": "leaf",
             "state": {
@@ -62,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -201,12 +215,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a0d93753d219690c",
+  "active": "e39f0de0b0120332",
   "lastOpenFiles": [
+    "temp.md",
+    "Сесія 4 - Зібрання.md",
     "Excalidraw/Drawing 2025-04-06 15.34.51.excalidraw.md",
     "obsidian/Групка.md",
     "Абетка християнина.md",
-    "temp.md",
     "Плач Єремії.md",
     "Єремії.md",
     "Нотатки з Біблії.md",
@@ -233,7 +248,6 @@
     "Plans for december.md",
     "Що робити з лінуксом.md",
     "mtab.md",
-    "План на 29.08.md",
     "obsidian"
   ]
 }
