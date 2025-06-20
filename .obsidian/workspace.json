@@ -20,21 +20,7 @@
             }
           },
           {
-            "id": "a0d93753d219690c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "temp.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "temp"
-            }
-          },
-          {
-            "id": "e39f0de0b0120332",
+            "id": "066822d8ab7791a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,77 +34,21 @@
             }
           },
           {
-            "id": "aa7c65e4d2d3a9aa",
+            "id": "2a96fab80eaa27f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Табір урок 5 - Терпеливий Наставник, сильний Лідер.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Табір урок 5 - Терпеливий Наставник, сильний Лідер"
-            }
-          },
-          {
-            "id": "066822d8ab7791a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Табір урок 2 - Щирий Співрозмовник.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Табір урок 2 - Щирий Співрозмовник"
-            }
-          },
-          {
-            "id": "b3215e95a7938982",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian/Групка.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Групка"
-            }
-          },
-          {
-            "id": "b0e4d3a400494fef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Плач Єремії.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Плач Єремії"
-            }
-          },
-          {
-            "id": "edacdeb6decbe61e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Єзекіїля.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Єзекіїля"
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -258,13 +188,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "aa7c65e4d2d3a9aa",
+  "active": "066822d8ab7791a7",
   "lastOpenFiles": [
-    "Табір урок 2 - Щирий Співрозмовник.md",
+    "Pasted image 20250620130636.png",
+    "Єзекіїля.md",
     "Табір урок 5 - Терпеливий Наставник, сильний Лідер.md",
+    "Табір урок 2 - Щирий Співрозмовник.md",
+    "Untitled.md",
     "TODO.md",
     "Виїзд лідерів.md",
-    "Єзекіїля.md",
     "Єремії.md",
     "Плач Єремії.md",
     "temp.md",
@@ -289,8 +221,6 @@
     "obsidian/Спіч про новий рік.md",
     "Welcome.md",
     "Words.md",
-    "Untitled 1.md",
-    "Untitled 2.md",
     "obsidian"
   ]
 }
