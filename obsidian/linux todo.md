@@ -1,57 +1,46 @@
-- [x] зробити firefox
-- [x] services battery
-- [x] configure thunar
-- [x] add right click menu
-- [x] add swipe up tray
-- [x] waybar setup with ags
-- [ ] rewrite scripts
-- [x] write backup script
-- [x] astal ~~notifications~~
-- [x] default apps
-- [x] hyprlock
-- [x] mpvpaper
-- [x] rofi theme
-- [x] hypridle
-- [x] samba
-- [x] move virt-manager, wal, dock config to nixos
-- [x] update install script
-- [ ] add udev rule
-- [x] boot loader
-- [ ] seelen ui
-- [ ] windows shell
-- [ ] custom power profile module
-- [ ] custom battery module
-- [ ] custom keyboard module
-- [ ] structure scripts
-- [ ] OSD
-- [ ] style whole bar
-- [ ] 
 
-- vs code
-- thunar
-- firefox
-- telegram
-- bible
-- disk analyse
-- terminal
-- steam
+- [ ] знайти роботу
+- [ ] опитати людей з групки
+- [ ] написати Боді
+- [ ] прибрати
+- [ ] пройти інструмент з благовістя
+- [ ] підготуватисяь до вступних
+- [ ] знайти наставника
 
-1. apps: Telegram Bible obsidian
-2. code: nixos projects file config
-3. thunar: nixos documents download shared 
-4. steam: Terraria TmodLoader Hollow knight
-5. power: 
-6. firefox: yt ytmusic chatgpt github
-7. nixos actions (rebuild, switch)
-8. screen copy screen area, record with no audio, with audio input, with audio output
 
-Привіт, Богдане. Я, на жаль, не зможу в неділю сказати проповідь, бо треба бути у Львові. Буду там служити
 
-I have following flake input that I use in home-manager: 
 
-    hyprpanel = {
-      url = "github:Jas-SinghFSU/HyprPanel";
-      inputs.nixpkgs.follows = "nixpkgs";
-    };
+Чому варто йти у фолов:
+- Можливість для ближчого спілкування з членами церкви
+- Можливості для благовістя
+- Можливість залучати нових людей на групку
 
-I should fetch hyprpanel from github on the latest commit that was submitted 20 hours ago. But It actually fetches an earlier commit. How to fix this?
+Чому НЕ варто йти у фолов:
+- Може забрати фокус з важливіших справ у житті (робота, підготовка до армії)
+- Може стати тягарем, і я не буду вмотивованим у служінні
+- я не бачу, щоб команда потребувала мого служіння в ній (вже сформована спільнота, є потужні пацани)
+
+Які є питання/сумніви:
+- яке очікування від посвяти? (Скільки часу виділяти на тижні) - 2 години планування + 3 години події на місяць
+- Як відбувається планування подій? Що вже відомо про новий сезон фолов - 13 вересня планування семестру, там все вирішиться
+- Чи бачите ви потребу в мені, і чим, на твою думку, я можу бути корисним для фолов? - бути прикладом у проведенні особистих зустрічей
+- Що будете робити з групкою як почнеться семестр? - не знаю
+
+
+
+Як справи з навчанням?
+Ти їдеш додому зараз? Як часто буваєш вдома?
+Чи спілкуєшся з кимось у Львові?
+Чим взгагалі займаєшся у вільний час?
+Чи ти читаєш щось?
+Читав Біблію колись? Сьогодні трохи почитаєм
+
+Як ти б описав свої відносини з Богом зараз? (відчуваю, що мені не вистачає цього, і я спраглий за Ним, але загублений)
+
+Чи віриш ти, що Бог має особливий задум на твоє життя? (складно відповісти, скоріше так)
+
+Ти погоджуєшся, що в людей є ніби пустота, яку вони намагаються заповнити? Поясни
+
+
+
+
